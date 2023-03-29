@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center"> Hi 👋, I'm <a href="https://martin-studna.com">Martin Studna</a></h2>
+  <h4 align="center">Machine Learning, Software & Full-Stack Engineer, Architect, Consultant and Lecturer 🇬🇧🇨🇿</h4>
+</p>
 
 <!--
 **martin-studna/martin-studna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
